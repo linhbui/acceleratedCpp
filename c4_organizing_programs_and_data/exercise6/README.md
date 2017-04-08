@@ -1,0 +1,1 @@
+Same final grade program, but rewrite Student_info program to calculate the homework grade immediately, and thus store only the final grade.
